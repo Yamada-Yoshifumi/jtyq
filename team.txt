@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Li An",
+    "description": "Bachelor's Degree in Drama at The University of Manchester, Master's Degree in Film at University of Cambridge.",
+    "profilePicture": null
+  },
+  {
+    "id": 2,
+    "name": "Yuan Han",
+    "description": "M.Eng and BA in Engineering at University of Cambridge",
+    "profilePicture": null
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "description": "John is a dedicated and detail-oriented employee with expertise in project management. He excels at coordinating team efforts and ensuring timely completion of tasks. John has a strong analytical mindset and is adept at problem-solving. He is a valuable asset to any project.",
+    "profilePicture": null
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "description": "Emily is a creative and innovative employee who brings fresh ideas to the table. With a background in graphic design, she has a keen eye for aesthetics and a strong understanding of visual communication. Emily is passionate about creating impactful designs and has a knack for turning concepts into reality.",
+    "profilePicture": null
+  },
+  {
+    "id": 5,
+    "name": "David Rodriguez",
+    "description": "David is a highly skilled software engineer with extensive experience in developing scalable web applications. He is well-versed in various programming languages and frameworks, making him adaptable to different tech stacks. David is a proactive problem-solver and a collaborative team player.",
+    "profilePicture": null
+  },
+  {
+    "id": 6,
+    "name": "Sarah Thompson",
+    "description": "Sarah is a results-driven marketing specialist with a talent for developing strategic campaigns. She possesses a deep understanding of consumer behavior and market trends, allowing her to create targeted marketing initiatives. Sarah is a strong communicator and thrives in fast-paced, dynamic environments.",
+    "profilePicture": null
+  },
+  {
+    "id": 7,
+    "name": "Michael Chen",
+    "description": "Michael is a detail-oriented financial analyst with expertise in data analysis and forecasting. He possesses strong analytical skills and can interpret complex financial information. Michael is highly organized and has a meticulous approach to financial planning and reporting.",
+    "profilePicture": null
+  },
+  {
+    "id": 8,
+    "name": "Jessica Lee",
+    "description": "Jessica is a charismatic and customer-oriented sales representative. She has a natural ability to build relationships and understand customer needs. Jessica is highly motivated and consistently exceeds sales targets. Her excellent communication skills make her a valuable asset in driving business growth.",
+    "profilePicture": null
+  }
+]
